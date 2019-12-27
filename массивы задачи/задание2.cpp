@@ -23,5 +23,5 @@ int main(void) {
     }
     nechetnoe = nechetnoe / b;
     cout << nechetnoe << endl;
-    return 0
+    return 0;
 }
